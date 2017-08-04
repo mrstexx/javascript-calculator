@@ -78,5 +78,4 @@ function calculate(num, operation) {
     } else {
         screen.text(scrtxt);
     }
-
 }
